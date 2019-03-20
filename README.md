@@ -13,3 +13,5 @@ The repository contains the following files:
 'CDFOM.mat' - Mean drag coefficients on the bluff bodies in 'TrainingSetSmooth.mat' for a flow with a Reynolds Number = 100. The results are obtained using computational fluid dynamics (CFD) simulations.
 
 To run the program, download all the above files and store them in a single directory.
+
+'SemiSubCNN.zip' contains the trained CNN for lift coefficient prediction of different semi-submersible models.
